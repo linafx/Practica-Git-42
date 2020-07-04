@@ -1,0 +1,23 @@
+{
+  "name": "practicagitb42",
+  "version": "1.0.0",
+  "description": "Practica Git",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linafx/Practica-Git-42.git"
+  },
+  "keywords": [
+    "git",
+    "b42"
+  ],
+  "author": "Lina Sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linafx/Practica-Git-42/issues"
+  },
+  "homepage": "https://github.com/linafx/Practica-Git-42#readme"
+}
